@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/willroberts/minecraft-client"
+	"github.com/earlofmarch/minecraft"
 )
 
 var (
