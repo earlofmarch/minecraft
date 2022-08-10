@@ -1,4 +1,4 @@
-module github.com/willroberts/minecraft-client
+module github.com/earlofmarch/minecraft
 
 go 1.16
 
