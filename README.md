@@ -83,5 +83,5 @@ $ go test -v --tags=integration
 [License Badge]: https://img.shields.io/badge/License-GPLv3-blue.svg
 [Build]: https://github.com/willroberts/minecraft-client/actions/workflows/build.yaml
 [Build Badge]: https://github.com/willroberts/minecraft-client/actions/workflows/build.yaml/badge.svg
-[GoDoc]: https://pkg.go.dev/github.com/willroberts/minecraft-client
-[GoDoc Badge]: https://pkg.go.dev/badge/github.com/willroberts/minecraft-client
+[GoDoc]: https://pkg.go.dev/github.com/earlofmarch/minecraft
+[GoDoc Badge]: https://pkg.go.dev/badge/github.com/earlofmarch/minecraft
