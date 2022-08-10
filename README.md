@@ -1,7 +1,6 @@
 # minecraft-client
 
 [![License Badge]][License]
-[![Build Badge]][Build]
 [![GoDoc Badge]][GoDoc]
 
 A client for the Minecraft RCON protocol.
@@ -81,7 +80,5 @@ $ go test -v --tags=integration
 
 [License]: https://www.gnu.org/licenses/gpl-3.0
 [License Badge]: https://img.shields.io/badge/License-GPLv3-blue.svg
-[Build]: https://github.com/willroberts/minecraft-client/actions/workflows/build.yaml
-[Build Badge]: https://github.com/willroberts/minecraft-client/actions/workflows/build.yaml/badge.svg
 [GoDoc]: https://pkg.go.dev/github.com/earlofmarch/minecraft
 [GoDoc Badge]: https://pkg.go.dev/badge/github.com/earlofmarch/minecraft
